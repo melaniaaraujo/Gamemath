@@ -1,2 +1,2 @@
-# Gamemath
-UTS pemograman web
+# web-gamemath
+pemorgraman web uts 
